@@ -1,0 +1,6 @@
+torch
+flask
+streamlit
+requests
+matplotlib
+tqdm
